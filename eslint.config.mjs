@@ -1,0 +1,2 @@
+// ESLint desactivado
+export default [];
